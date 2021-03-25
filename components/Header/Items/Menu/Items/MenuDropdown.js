@@ -11,10 +11,10 @@ function MenuDropdown() {
       } ${isOpen ? "open" : "hidden"}`}
     >
       <ul className="flex flex-col items-center text-xl text-black dark:text-Gravel">
-        <Link name="Home" link="#" />
-        <Link name="About" link="#" />
-        <Link name="Projects" link="#" />
-        <Link name="Contact" link="#" />
+        <Link name="Home" link="/" />
+        <Link name="About" link="/about" />
+        <Link name="Projects" link="/projects" />
+        <Link name="Contact" link="/contact" />
       </ul>
     </div>
   )
