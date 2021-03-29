@@ -28,7 +28,7 @@ function Projects() {
         src="Portfolio.png"
         name="Portfolio Website"
         description="My porfolio website built on Next.Js"
-        github="https://github.com/Ethan-Hill/next-portfolio"
+        github="https://github.com/Ethan-Hill/Portfolio"
         website="https://ethanhill.dev"
       />
       <Project
