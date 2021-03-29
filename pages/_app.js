@@ -3,6 +3,7 @@ import SiteLayout from "../Layouts/SiteLayout"
 import { Provider } from "jotai"
 import { menuState } from "../context/state"
 import "../styles/global.css"
+import "../styles/twemoji-awesome.css"
 import { ThemeProvider } from "next-themes"
 
 function MyApp({ Component, pageProps }) {

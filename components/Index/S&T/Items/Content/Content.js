@@ -1,7 +1,7 @@
 import STBG from "./Items/ST/STBG"
 import ST from "./Items/ST/ST"
 import Icons from "./Items/Icons/Icons"
-import FadeInWhenVisible from "../../../../FadeInWhenVisibleST"
+import FadeInWhenVisible from "@components/FadeIn/FadeInWhenVisibleST"
 
 const Content = () => {
   return (

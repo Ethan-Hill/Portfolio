@@ -7,7 +7,7 @@ import Git from "./Items/Git"
 import VSC from "./Items/VSC"
 import Figma from "./Items/Figma"
 import CSS3 from "./Items/CSS3"
-import FadeInWhenVisible from "../../../../../../FadeInWhenVisibleIcons"
+import FadeInWhenVisible from "../../../../../../FadeIn/FadeInWhenVisibleIcons"
 
 function Icons() {
   return (

@@ -1,10 +1,14 @@
 import { useAtom } from "jotai"
 import { menuState } from "../../../../../context/state"
 import { useTheme } from "next-themes"
+import { useState, useEffect } from "react"
 
 function Icon() {
+  const [mounted, setMounted] = useState(false)
   const { theme } = useTheme()
+  useEffect(() => setMounted(true), [])
   const [{ isOpen }, setMenu] = useAtom(menuState)
+  if (!mounted) return null
 
   return (
     <svg

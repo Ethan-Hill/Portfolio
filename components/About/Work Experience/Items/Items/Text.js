@@ -1,6 +1,6 @@
 function Text({ title, content, time }) {
   return (
-    <div className="flex flex-col w-full px-8 py-2 border-black rounded-lg md:border-2 lg:w-1/2 dark:border-0">
+    <div className="flex flex-col w-full px-8 py-2 rounded-lg lg:w-1/2 ">
       <h1 className="mb-6 text-xl text-center text-black lg:text-left lg:text-4xl md:text-2xl dark:text-white">
         {title}
       </h1>

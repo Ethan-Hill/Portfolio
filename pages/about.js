@@ -3,6 +3,7 @@ import Hero from "@components/About/Hero/Hero"
 import Hobbys from "@components/About/Hobbys/Hobbys"
 import WorkExperience from "@components/About/Work Experience/WorkExperience"
 import Education from "@components/About/Education/Education"
+import Progress from "@components/About/Progress/Progress"
 
 export default function About() {
   return (
@@ -15,6 +16,7 @@ export default function About() {
       <Hobbys />
       <WorkExperience />
       <Education />
+      <Progress />
     </>
   )
 }

@@ -1,6 +1,6 @@
 function Brand() {
   return (
-    <h1 className="pt-5 text-3xl font-semibold text-white md:text-5xl">
+    <h1 className="pt-5 text-3xl font-semibold text-LightCharcoal dark:text-white md:text-5xl">
       Ethan Hill
     </h1>
   )

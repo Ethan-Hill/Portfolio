@@ -1,6 +1,6 @@
 function Text() {
   return (
-    <div className="flex flex-col w-full px-8 py-2 border-black rounded-lg md:border-2 lg:w-1/2 dark:border-0">
+    <div className="flex flex-col w-full px-8 py-2 rounded-lg lg:w-1/2">
       <h1 className="mb-12 text-lg text-center text-black lg:text-left lg:text-3xl md:text-xl dark:text-white">
         I’m Ethan. I'm a passionate Junior Software Developer. I'm currently 18
         and I started my programming journey in 2017 when I was introduced to
