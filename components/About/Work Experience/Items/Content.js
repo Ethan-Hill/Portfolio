@@ -10,7 +10,7 @@ function Content() {
         <div className="flex flex-wrap items-center md:mb-16 justify-evenly">
           <Job name="Time4Calm" />
           <Text
-            title="Contet Creator & Web Developer"
+            title="Content Creator & Web Developer"
             time="Time4Calm  March 2021 - May 2021"
             content="I was tasked with creating a website with content based on their needs and to take inspiration from their old work. I also managed the planning of systems used for the online podcast and the website creation.
 			"
