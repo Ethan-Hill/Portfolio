@@ -4,6 +4,13 @@ function Projects() {
   return (
     <div className="flex flex-wrap w-full md:px-24 justify-evenly ">
       <Project
+        src="Nexify-Revamp.png"
+        name="Nexify Revamp"
+        description="A custom made spotify player built on Next.Js"
+        github="https://github.com/Ethan-Hill/nexify-revamp"
+        website="https://beta.nexify.xyz"
+      />
+      <Project
         src="Nexify.png"
         name="Nexify"
         description="A custom made spotify player built on Next.Js"
@@ -17,13 +24,7 @@ function Projects() {
         github="https://github.com/Ethan-Hill/Nuxify"
         website="https://nuxify.vercel.app/"
       />
-      <Project
-        src="Nexify-Revamp.png"
-        name="Nexify Revamp"
-        description="A custom made spotify player built on Next.Js"
-        github="https://github.com/Ethan-Hill/nexify-revamp"
-        website="https://beta.nexify.xyz"
-      />
+
       <Project
         src="Portfolio.png"
         name="Portfolio Website"
