@@ -6,7 +6,7 @@ import Links from "./Items/Links/Links"
 function Project({ src, name, description, github, website }) {
   return (
     <div className="m-12 md:w-96">
-      <Image src={src} github={github} />
+      <Image src={src} website={website} />
       <Name name={name} />
       <Description description={description} />
       <Links github={github} website={website} />

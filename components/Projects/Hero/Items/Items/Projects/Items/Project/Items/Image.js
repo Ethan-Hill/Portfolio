@@ -1,6 +1,6 @@
-function Image({ src, github }) {
+function Image({ src, website }) {
   return (
-    <a href={github} target="_blank">
+    <a href={website} target="_blank">
       <img
         src={src}
         className="w-auto transition-all transform h-52 hover:scale-105"
