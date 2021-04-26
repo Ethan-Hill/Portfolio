@@ -7,7 +7,7 @@ const Content = () => {
         </h1>
         <br />
         <h2 className="text-3xl font-medium text-center text-LightCharcoal dark:text-white lg:text-5xl sm:text-left">
-          Software Developer
+          Full Stack Web Developer
         </h2>
       </div>
       <div className="mb-24">
