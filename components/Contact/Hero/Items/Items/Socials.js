@@ -16,7 +16,7 @@ function Socials() {
         </a>{" "}
         or{" "}
         <a
-          href="https://www.linkedin.com/in/ethan-hill-839057195/"
+          href="https://www.linkedin.com/in/EthanJayHill"
           className="text-blue-600"
           target="_blank"
         >

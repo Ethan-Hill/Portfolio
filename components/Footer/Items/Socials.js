@@ -21,10 +21,7 @@ function Socials() {
           </a>
         </li>
         <li>
-          <a
-            href="https://www.linkedin.com/in/ethan-hill-839057195/"
-            target="_blank"
-          >
+          <a href="https://www.linkedin.com/in/EthanJayHill" target="_blank">
             <svg
               width="24"
               height="24"
