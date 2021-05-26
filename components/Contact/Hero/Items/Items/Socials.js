@@ -8,11 +8,11 @@ function Socials() {
       <h1 className="text-lg font-medium leading-tight text-center text-LightCharcoal dark:text-white md:text-left lg:text-2xl">
         You can also find me on Twitter{" "}
         <a
-          href="https://twitter.com/Hilly_Jay"
+          href="https://twitter.com/EthanJayHill"
           className="text-blue-600"
           target="_blank"
         >
-          @Hilly_Jay
+          @EthanJayHill
         </a>{" "}
         or{" "}
         <a

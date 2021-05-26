@@ -3,7 +3,7 @@ function Socials() {
     <nav className="w-64 px-5 md:px-0">
       <ul className="flex justify-between text-lg md:text-2xl text-LightCharcoal dark:text-Gravel">
         <li>
-          <a href="https://twitter.com/Hilly_Jay" target="_blank">
+          <a href="https://twitter.com/EthanJayHill" target="_blank">
             <svg
               width="24"
               height="24"
