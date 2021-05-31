@@ -32,6 +32,13 @@ function Projects() {
         github="https://github.com/Ethan-Hill/Portfolio"
         website="https://ethanhill.dev"
       />
+	  <Project
+        src="Blog.png"
+        name="Blog"
+        description="My blog built on Nuxt.Js"
+        github="https://github.com/Ethan-Hill/Blog"
+        website="https://blog.ethanhill.dev"
+      />
       <Project
         src="Vue-Weather.png"
         name="Vue Weather"
