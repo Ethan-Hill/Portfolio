@@ -6,12 +6,13 @@ function MenuDropdown() {
   const [{ isOpen }] = useAtom(menuState)
   return (
     <div
-      className={`w-full md:hidden px-5 h-36 bg-white border-b border-black  dark:bg-DarkCharcoal ${
+      className={`w-full md:hidden px-5 bg-white border-b border-black  dark:bg-DarkCharcoal ${
         isOpen ? "block" : "hidden"
       } ${isOpen ? "open" : "hidden"}`}
     >
       <ul className="flex flex-col items-center text-xl text-black dark:text-Gravel">
         <Link name="Home" link="/" />
+		<Link name="Blog" link="https://blog.ethanhill.dev" />
         <Link name="About" link="/about" />
         <Link name="Projects" link="/projects" />
         <Link name="Contact" link="/contact" />

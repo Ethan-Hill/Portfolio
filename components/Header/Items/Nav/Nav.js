@@ -5,6 +5,7 @@ function Nav() {
     <nav className="hidden w-full md:block">
       <ul className="flex justify-between text-xl ">
         <Link name="Home" link="/" />
+		<Link name="Blog" link="https://blog.ethanhill.dev" />
         <Link name="About" link="/about" />
         <Link name="Projects" link="/projects" />
         <Link name="Contact" link="/contact" />
